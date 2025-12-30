@@ -8,6 +8,7 @@ subject to their own policies and constraints:
 - Ko-fi
 - Payhip
 - Adobe Stock
+- Dreamstime
 - TeePublic
 - Buy Me A Coffee
 - YouTube
